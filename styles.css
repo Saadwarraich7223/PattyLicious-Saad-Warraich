@@ -491,7 +491,7 @@ img {
 .cart-card {
   background-color: #353432;
   width: 300px;
-  height: 91vh;
+  height: 85vh;
   justify-self: flex-end;
   position: fixed;
   top: 8.6%;
@@ -514,6 +514,7 @@ img {
 }
 .cart-btns {
   display: grid;
+  height:53px;
   grid-template-columns: 1fr 1fr;
   align-items: end;
   justify-content: flex-end;
