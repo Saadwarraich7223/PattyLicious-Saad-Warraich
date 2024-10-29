@@ -192,7 +192,7 @@ function reloadCart() {
 
     cartData.appendChild(li);
   });
-  total.innerHTML = `<span class="cart-total">Total (items ${count}) ${totalPrice}$</span>`;
+  total.innerHTML = `<span class="cart-total"> (items ${count}) ${totalPrice}$</span>`;
   cartQuantity.innerHTML = count;
 }
 function changeQuantity(key, cartQuantity) {
