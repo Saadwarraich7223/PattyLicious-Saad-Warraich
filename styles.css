@@ -494,7 +494,7 @@ img {
   height: 85vh;
   justify-self: flex-end;
   position: fixed;
-  top: 8.2%;
+  top: 8%;
   z-index: 20;
   right: -100%;
   display: grid;
